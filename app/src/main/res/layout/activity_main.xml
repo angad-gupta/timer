@@ -16,7 +16,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="00:00"
-            android:textSize="60sp"
+            android:textSize="60sp">
+        </TextView>
 
         <RelativeLayout
             android:layout_width="match_parent"
